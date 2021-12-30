@@ -1,0 +1,40 @@
+
+body {
+  background-image: url("./violetGradient.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    color: rgb(44, 22, 170);
+    font-family: 'Homemade Apple', cursive;
+    text-align: center;
+}
+h2 {
+    color: rgb(32, 187, 53);
+    font-family: 'Homemade Apple', cursive;
+    text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.border-purple{
+  border-color: rgb(92, 12, 129);
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+}
+  
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 34%;
+}
