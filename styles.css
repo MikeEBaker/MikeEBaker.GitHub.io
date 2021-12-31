@@ -8,7 +8,9 @@ body {
 h1 {
     color: rgb(44, 22, 170);
     font-family: 'Homemade Apple', cursive;
+    font-size: 34px;
     text-align: center;
+    padding: 20px;
 }
 h2 {
     color: rgb(32, 187, 53);
